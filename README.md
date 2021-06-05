@@ -6,4 +6,12 @@ The DL library Keras is used along with Opencv.
 
 Results:
 
+![alt text](https://github.com/rkavk/FaceMask/blob/master/Results_Mask.png)
+
+
+![alt text](https://github.com/rkavk/FaceMask/blob/master/Results_nomask.jpg.png)
+
+
+
+
 
